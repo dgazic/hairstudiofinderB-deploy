@@ -19,7 +19,7 @@
     "jsonwebtoken": "^8.4.0",
     "mongodb": "^3.5.7",
     "mongoose": "^5.3.16",
-    "validator": "^10.9.0",
+    "validator": "^13.7.0",
     "@babel/core": "^7.9.6",
     "@babel/node": "^7.8.7",
     "@babel/preset-env": "^7.9.6",
